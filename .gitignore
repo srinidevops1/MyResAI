@@ -3,3 +3,7 @@
 
 # Python cache
 __pycache__/
+myresai_database.db
+venv/
+.env
+*.pyc

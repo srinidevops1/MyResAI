@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+openai
+sarvamai
+chromadb
+pytest
+SpeechRecognition
+PyAudio
+fastapi
+uvicorn[standard]
+requests
+httpx
